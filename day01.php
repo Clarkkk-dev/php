@@ -7,9 +7,11 @@
 </head>
 <body>
     <?php
-
+    
+        //Data Declaration
         $crush = "Claire Mendoza";
         
+        //While Loop
         $i = 1;
         while($i <= 10){
             echo "I Love You $crush $i x <br>";
